@@ -18,6 +18,7 @@ The primary objective of this analysis is to examine the impact of education-bas
 7. The number of educational degrees obtained by founders of unicorn companies
 
 **Conclusion**
+
 In summary, the analysis of the dataset reveals interesting patterns in the education background of unicorn company founders. The majority of companies have 2-5 founders, and there is a notable presence of university homophily among companies with 5, 4, 6, and 7 founders. However, companies with 3 and 2 founders exhibit lower occurrences of university homophily, which aligns with the expectation of fewer shared educational experiences. Additionally, companies with 8 and 9 founders show less inclination towards university homophily, but the limited data points prevent drawing definitive conclusions for this group.
 
 The most commonly attended universities by founders of unicorn companies include Stanford University, MIT, UC Berkeley, Harvard University, and Harvard Business School. However, when compared to another dataset, there are slight variations in the rankings, with universities like Carnegie Mellon University and the University of Pennsylvania also appearing in the top 5.
